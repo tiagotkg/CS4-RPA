@@ -1,0 +1,49 @@
+=== ALERTAS DE PIRATARIA - 30/10/2025 21:44:26 ===
+
+Total de produtos de alto risco: 5
+
+ALERTA #1:
+  Título: Tinta 100ml Black Compativel Impressora Cartucho 667xl
+  Preço: R$ 17.0
+  Vendedor: Amazon.com.br
+  Predição IA: COMPATIVEL
+  Score de Risco: 4
+  URL: https://www.amazon.com.br/Tinta-100ml-Compativel-Impressora-Cartucho/dp/B0CC3ST6K8/ref=sr_1_59?dib=eyJ2IjoiMSJ9.loMaamKR8TKSm71GzFAoC-JSj6x_Iu0DNTkmrN7nd2LhZjyhm6ZiioMhYSV-Hqc4fpqrbcf5zfpdflr8Vy_3LRrlrq36jgCHCktsml8YUt9vH4gHzS8fJlo27qSSQG35chLColu9gH_bs7QwMu1aCIYI4SaOg4UFyxeUqlYG02dffgwbCIEnpK4tyUCTD2YLlVYVIlYqmrvWxKpjqgG6PtwzxwtFCEVwWEJT3Abtp61GtdI6ydKeA0OKPRkua7ZjjyHuMUig3r5j0srQLI9pPhdOT0Jh5urlgGlFmCBL0zU._65RHrVqCWp5Gxw3MumT4hAsGBTk9RPWdc82c-c2J_Y&dib_tag=se&keywords=cartucho+HP+667&qid=1761870389&sr=8-59
+--------------------------------------------------------------------------------
+
+ALERTA #2:
+  Título: KIT 3x Refil Tinta Preta Compatível com 664 T664 100ml cada | 300ml no Total | L395 L380 L375 L220 L455 | Premium | KORA ou EVOLUT
+  Preço: R$ 24.0
+  Vendedor: Kitts Mania BR
+  Predição IA: SUSPEITO
+  Score de Risco: 6
+  URL: https://www.amazon.com.br/Refil-Tinta-Compat%C3%ADvel-Premium-EVOLUT/dp/B0DV1JZSJ4/ref=sr_1_38?dib=eyJ2IjoiMSJ9.dzWfAuA-i5hUSHYn6ifR0nHx-nxl7osvW1g9kmdnyuPRbQ9Rrut8Fh-C3pI-SwOK8lQywwsraVQyD3RHGJ5CLqGLJ2DgvX3Hqky7XfEliHj0EuQFa_MxpV_s2bX1sVEBR01rTfAdGhE081itt_Q9BE86nstrtQrUnV0_Zr6HMBDcweHi4H0n3DevDebGA8TZRHCujBl18F-1TQLDiimh9obcrft1JJWeG-FK_5LBWhIpRH9-0LJHV6ioXQohaGHh2ni5s3e--2B69VJYR8Y6QcpQ0KE0CC3rsp9t3I7HEL8.r669DuURKQ_hTxxdijE6hy3f9TJwIy7yaZGpmQMwcfA&dib_tag=se&keywords=cartucho+HP+664&qid=1761870769&sr=8-38
+--------------------------------------------------------------------------------
+
+ALERTA #3:
+  Título: Tinta Recarga Preta 500ml Compatível 662 664 122 60 74
+  Preço: R$ 27.0
+  Vendedor: VALE JET
+  Predição IA: COMPATIVEL
+  Score de Risco: 4
+  URL: https://www.amazon.com.br/Tinta-Recarga-Preta-500ml-Compat%C3%ADvel/dp/B0CC4225B6/ref=sr_1_54?dib=eyJ2IjoiMSJ9.dzWfAuA-i5hUSHYn6ifR0nHx-nxl7osvW1g9kmdnyuPRbQ9Rrut8Fh-C3pI-SwOK8lQywwsraVQyD3RHGJ5CLqGLJ2DgvX3Hqky7XfEliHj0EuQFa_MxpV_s2bX1sVEBR01rTfAdGhE081itt_Q9BE86nstrtQrUnV0_Zr6HMBDcweHi4H0n3DevDebGA8TZRHCujBl18F-1TQLDiimh9obcrft1JJWeG-FK_5LBWhIpRH9-0LJHV6ioXQohaGHh2ni5s3e--2B69VJYR8Y6QcpQ0KE0CC3rsp9t3I7HEL8.r669DuURKQ_hTxxdijE6hy3f9TJwIy7yaZGpmQMwcfA&dib_tag=se&keywords=cartucho+HP+664&qid=1761870769&sr=8-54
+--------------------------------------------------------------------------------
+
+ALERTA #4:
+  Título: Tinta Recarga Preta 500ml Compatível 662 664 122 60 74
+  Preço: R$ 27.0
+  Vendedor: VALE JET
+  Predição IA: COMPATIVEL
+  Score de Risco: 4
+  URL: https://www.amazon.com.br/Tinta-Recarga-Preta-500ml-Compat%C3%ADvel/dp/B0CC4225B6/ref=sr_1_17?dib=eyJ2IjoiMSJ9.dsRM-fH-P0smC-iei0Ipbr9JqOXUJEnuzM__wsU2-MhiBb39BNjMasjMHjQ18oW-A6cGPj1iD57YfddRwbKF3FofVzmNzJfyAAbk9T3k5xOpBUEGO-J8lWw8So-C8FZLC-072nVeJFEhFgc63SE_fRi1TGiwkzYJEATmyyuXAVbfezoVoDR-QLsByjSZnW318Cv2QCJIIF6gYPzVq1AL2qLTeGL1V2WbCErwSgXVl-FYG7pJ_umMirZXDAglwJAxrvNikAl1HJ0GTwT42WYdLkedCzm5V2-Fj3vC5TOSqCM._tGU_cWYSVnBmA7w--47nuAy2WT5fcW2eEbkT-noXNI&dib_tag=se&keywords=cartucho+HP+662&qid=1761871154&sr=8-17
+--------------------------------------------------------------------------------
+
+ALERTA #5:
+  Título: Kit Snap Fill + Seringa para Recarga de Cartuchos, Compatível com Modelos 60, 61, 662, 664, 667, 74, 75, 21, 22, 92, 93
+  Preço: R$ 28.0
+  Vendedor: Inova Ink
+  Predição IA: COMPATIVEL
+  Score de Risco: 4
+  URL: https://www.amazon.com.br/Seringa-Recarga-Cartuchos-Compat%C3%ADvel-Modelos/dp/B0DH58JVJY/ref=sr_1_54?dib=eyJ2IjoiMSJ9.dsRM-fH-P0smC-iei0Ipbr9JqOXUJEnuzM__wsU2-MhiBb39BNjMasjMHjQ18oW-A6cGPj1iD57YfddRwbKF3FofVzmNzJfyAAbk9T3k5xOpBUEGO-J8lWw8So-C8FZLC-072nVeJFEhFgc63SE_fRi1TGiwkzYJEATmyyuXAVbfezoVoDR-QLsByjSZnW318Cv2QCJIIF6gYPzVq1AL2qLTeGL1V2WbCErwSgXVl-FYG7pJ_umMirZXDAglwJAxrvNikAl1HJ0GTwT42WYdLkedCzm5V2-Fj3vC5TOSqCM._tGU_cWYSVnBmA7w--47nuAy2WT5fcW2eEbkT-noXNI&dib_tag=se&keywords=cartucho+HP+662&qid=1761871154&sr=8-54
+--------------------------------------------------------------------------------
+
