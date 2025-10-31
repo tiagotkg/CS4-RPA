@@ -14,6 +14,9 @@ Este projeto implementa um sistema de hiperautomação que combina RPA (Robotic 
 ## 📁 Link do Github
 https://github.com/tiagotkg/CS3-RPA.git
 
+## 🚀 Link do Streamlit
+https://cs4-rpa.streamlit.app
+
 ## 🎯 Objetivos
 
 - **Automação RPA**: Coletar dados de produtos em tempo real da Amazon.com.br
